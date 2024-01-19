@@ -1,0 +1,77 @@
+{
+    "resources": [
+      {
+        "id": 1,
+        "title": "Inception",
+        "category": "Movies",
+        "rating": 4,
+        "isFavorite": false
+        
+      },
+      {
+        "id": 2,
+        "title": "The Hitchhiker's Guide",
+        "category": "Books",
+        "rating": 5,
+        "isFavorite": true
+      },
+      {
+        "id": 3,
+        "title": "Breaking Bad",
+        "category": "TV Shows",
+        "rating": 4,
+        "isFavorite": true
+      },
+      {
+        "id": 4,
+        "title": "The Dark Knight",
+        "category": "Movies",
+        "rating": 5,
+        "isFavorite": false
+      },
+      {
+        "id": 5,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "category": "Books",
+        "rating": 4,
+        "isFavorite": false
+
+      },
+      {
+        "id": 6,
+        "title": "Stranger Things Season 1 & 2",
+        "category": "TV Shows",
+        "rating": 5,
+        "isFavorite": true
+      },
+      {
+        "id": 7,
+        "title": "The Shawshank Redemption",
+        "category": "Movies",
+        "rating": 5,
+        "isFavorite": true
+      },
+      {
+        "id": 8,
+        "title": "The Lord of the Rings: The Fellowship",
+        "category": "Movies",
+        "rating": 4,
+        "isFavorite": false
+      },
+      {
+        "id": 9,
+        "title": "Must read! 1984 With Abigael and mark",
+        "category": "Books",
+        "rating": 4,
+        "isFavorite": true
+      },
+      {
+        "id": 10,
+        "title": "New In! Black Mirror Season 1 & 2",
+        "category": "TV Shows",
+        "rating": 5,
+        "isFavorite": true
+      }
+    ]
+  }
+  
